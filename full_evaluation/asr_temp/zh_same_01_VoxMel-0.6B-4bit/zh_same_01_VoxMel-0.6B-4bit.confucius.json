@@ -1,0 +1,15 @@
+{
+  "model": "mlx-community/Confucius4-R2T2-8bit",
+  "model_path": "/Users/vanch/.cache/huggingface/hub/models--mlx-community--Confucius4-R2T2-8bit/snapshots/2d6d997c3e09c65a65b1b2576b6b9b7728df8eab",
+  "audio": "/Users/vanch/mlx-voxmel/full_evaluation/audio/zh_same_01_VoxMel-0.6B-4bit.wav",
+  "language": "Chinese",
+  "text": "时刻呢，盛唐甩了甩那稍显肉感的双臂，轻笑道：“我身上的肉是为了掩饰我爆棚的魅力，懂不懂？”",
+  "raw_text": "时刻呢，盛唐甩了甩那稍显肉感的双臂，轻笑道：“我身上的肉是为了掩饰我爆棚的魅力，懂不懂？”",
+  "audio_seconds": 13.173375,
+  "processing_seconds": 0.42875883300439455,
+  "generation_tokens": 34,
+  "token_budget_reached": false,
+  "mode": "offline",
+  "timestamps": false,
+  "speaker_labels": false
+}

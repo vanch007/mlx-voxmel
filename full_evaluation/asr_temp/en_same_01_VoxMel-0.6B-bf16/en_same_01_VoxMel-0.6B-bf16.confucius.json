@@ -1,0 +1,15 @@
+{
+  "model": "mlx-community/Confucius4-R2T2-8bit",
+  "model_path": "/Users/vanch/.cache/huggingface/hub/models--mlx-community--Confucius4-R2T2-8bit/snapshots/2d6d997c3e09c65a65b1b2576b6b9b7728df8eab",
+  "audio": "/Users/vanch/mlx-voxmel/full_evaluation/audio/en_same_01_VoxMel-0.6B-bf16.wav",
+  "language": "English",
+  "text": "I don't really care what you call me. I've been around for over four and a half billion years, twenty two thousand five hundred times longer than you.",
+  "raw_text": "I don't really care what you call me. I've been around for over four and a half billion years, twenty two thousand five hundred times longer than you.",
+  "audio_seconds": 8.6506875,
+  "processing_seconds": 0.4031898329849355,
+  "generation_tokens": 33,
+  "token_budget_reached": false,
+  "mode": "offline",
+  "timestamps": false,
+  "speaker_labels": false
+}

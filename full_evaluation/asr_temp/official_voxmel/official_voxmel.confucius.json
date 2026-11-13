@@ -1,0 +1,15 @@
+{
+  "model": "mlx-community/Confucius4-R2T2-8bit",
+  "model_path": "/Users/vanch/.cache/huggingface/hub/models--mlx-community--Confucius4-R2T2-8bit/snapshots/2d6d997c3e09c65a65b1b2576b6b9b7728df8eab",
+  "audio": "/Users/vanch/mlx-voxmel/demo_samples/zh_test_01/official_voxmel.wav",
+  "language": "Chinese",
+  "text": "我看着他们意气风发地挺直了胸膛，甩了甩那稍显肉感的双臂，轻笑道，我身上的肉是为了掩饰我爆棚的魅力，否则岂不吓坏了你们",
+  "raw_text": "我看着他们意气风发地挺直了胸膛，甩了甩那稍显肉感的双臂，轻笑道，我身上的肉是为了掩饰我爆棚的魅力，否则岂不吓坏了你们",
+  "audio_seconds": 15.904,
+  "processing_seconds": 0.5396964999963529,
+  "generation_tokens": 46,
+  "token_budget_reached": false,
+  "mode": "offline",
+  "timestamps": false,
+  "speaker_labels": false
+}

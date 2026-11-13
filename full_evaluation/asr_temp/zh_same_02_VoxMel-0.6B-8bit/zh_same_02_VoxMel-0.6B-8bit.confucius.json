@@ -1,0 +1,15 @@
+{
+  "model": "mlx-community/Confucius4-R2T2-8bit",
+  "model_path": "/Users/vanch/.cache/huggingface/hub/models--mlx-community--Confucius4-R2T2-8bit/snapshots/2d6d997c3e09c65a65b1b2576b6b9b7728df8eab",
+  "audio": "/Users/vanch/mlx-voxmel/full_evaluation/audio/zh_same_02_VoxMel-0.6B-8bit.wav",
+  "language": "Chinese",
+  "text": "顿时气氛变得沉郁起来，乍看之下，一切的困扰仿佛都围绕在我身边，我皱着眉头，感受着那份压力，但我知道逃避不是办法，必须迎难而",
+  "raw_text": "顿时气氛变得沉郁起来，乍看之下，一切的困扰仿佛都围绕在我身边，我皱着眉头，感受着那份压力，但我知道逃避不是办法，必须迎难而|",
+  "audio_seconds": 10.592,
+  "processing_seconds": 0.43658700000378303,
+  "generation_tokens": 41,
+  "token_budget_reached": false,
+  "mode": "offline",
+  "timestamps": false,
+  "speaker_labels": false
+}

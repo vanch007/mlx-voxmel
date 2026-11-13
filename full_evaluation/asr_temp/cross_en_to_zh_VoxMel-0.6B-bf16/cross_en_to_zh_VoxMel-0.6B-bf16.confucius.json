@@ -1,0 +1,15 @@
+{
+  "model": "mlx-community/Confucius4-R2T2-8bit",
+  "model_path": "/Users/vanch/.cache/huggingface/hub/models--mlx-community--Confucius4-R2T2-8bit/snapshots/2d6d997c3e09c65a65b1b2576b6b9b7728df8eab",
+  "audio": "/Users/vanch/mlx-voxmel/full_evaluation/audio/cross_en_to_zh_VoxMel-0.6B-bf16.wav",
+  "language": "Chinese",
+  "text": "顿时气氛变得沉郁起来，乍看之下，一切的困扰仿佛都围绕在我身边。",
+  "raw_text": "顿时气氛变得沉郁起来，乍看之下，一切的困扰仿佛都围绕在我身边。",
+  "audio_seconds": 6.5386875,
+  "processing_seconds": 0.2892285000125412,
+  "generation_tokens": 20,
+  "token_budget_reached": false,
+  "mode": "offline",
+  "timestamps": false,
+  "speaker_labels": false
+}

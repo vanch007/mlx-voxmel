@@ -1,0 +1,15 @@
+{
+  "model": "mlx-community/Confucius4-R2T2-8bit",
+  "model_path": "/Users/vanch/.cache/huggingface/hub/models--mlx-community--Confucius4-R2T2-8bit/snapshots/2d6d997c3e09c65a65b1b2576b6b9b7728df8eab",
+  "audio": "/Users/vanch/mlx-voxmel/full_evaluation/audio/cross_zh_to_en_VoxMel-0.3B-4bit.wav",
+  "language": "English",
+  "text": "Say, Lily. It was a burst of laughter beside me.",
+  "raw_text": "Say, Lily. It was a burst of laughter beside me. ",
+  "audio_seconds": 30.005375,
+  "processing_seconds": 0.8789582089812029,
+  "generation_tokens": 13,
+  "token_budget_reached": false,
+  "mode": "offline",
+  "timestamps": false,
+  "speaker_labels": false
+}

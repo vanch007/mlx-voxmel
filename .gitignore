@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+models/
+eval_outputs/
+demo_samples/
+*.wav
+
